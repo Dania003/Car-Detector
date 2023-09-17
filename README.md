@@ -19,7 +19,7 @@ https://github.com/Dania003/Car-Detector/assets/69827478/633c580d-99ab-48af-a18c
   
 
 
+https://github.com/Dania003/Car-Detector/assets/69827478/feb9aeb5-a96c-45e1-b80a-c7d84df4cea5
 
-https://github.com/Dania003/Car-Detector/assets/69827478/2ac8f558-bbc4-42ff-9936-97a2426bade9
 
 
