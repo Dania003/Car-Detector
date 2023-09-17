@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+![car_GIF2](https://github.com/Dania003/Car-Detector/assets/69827478/14b0a6f2-3d26-4049-b30f-5b209073e8bb)
 
 <body>
 	<div class="container">
