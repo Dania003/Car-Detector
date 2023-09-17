@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
-![carGIF](https://github.com/Dania003/Car-Detector/assets/69827478/654fc927-bccd-4dfd-8c60-26883280f216)
+
+
+
+https://github.com/Dania003/Car-Detector/assets/69827478/f027322f-816c-4013-a55b-349a24de0939
+
+
 
 <body>
 	<div class="container">
@@ -12,4 +17,7 @@
 		<p>In order to solve this problem, we used python to build a program that acts as a vehicle detector from visual input. Using OpenCV, we were able to analyze and read visual information!</p>
 		<p>The issue we were facing was that OpenCV could only detect regular shapes; cars are not really regular in shape…. But their wheels are! Obviously, the wheels are always circular! This means that OpenCV could always detect the wheels. Since we were working specifically with Toyota cars; thus we knew the dimensions of its specific parts such as the radius of its wheels. Thus, we were able to specify to the program what circles to look for (we don’t want the program to look for circles that are not wheels). By detecting one of the wheels (specifically the front right wheel) as a circle, we were able to store the location of it in an array meaning that we were able to detect its position at any point of time! Since we know the dimensions of the car, we were able to draw a border rectangle that traces the car as it moves all depending on the location of the wheel!</p>
 		<h2>How does it work?</h2>
-		<p>See final project here: <a href="https://github.com/Dania003/Car-Detector/blob/main/white_slow_car_rectangle.avi">https://github.com/Dania003
+
+
+https://github.com/Dania003/Car-Detector/assets/69827478/49b97f05-4a05-4b8b-96d4-25f695972e80
+
